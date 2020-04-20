@@ -1,2 +1,1 @@
-# Arhitectura_Sistemelor_de_calcul
-ASC, DOSBox
+Acest Repository contine temele de laborator realizate pentru disciplina Arhitectura Sistemelor de Calcul. In realizarea acestor teme am folosit Assembly. Temele sunt structurate in fisiere .asm,iar in interiorul fiecarui fisier exista cerinta aferenta sub forma de comentariu.
